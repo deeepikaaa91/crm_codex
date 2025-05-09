@@ -1,8 +1,14 @@
 import React from 'react'
+import Signup from '../Componants/Signup'
+import Login from '../Component/Login'
 
 function Home() {
   return (
-    <div className='bg-red-300'>Home</div>
+    <div>
+      <Signup></Signup>
+       <Login></Login>
+    </div>
+    
   )
 }
 
