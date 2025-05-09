@@ -1,8 +1,11 @@
 import React from 'react'
+import Signup from '../Componants/Signup'
 
 function Home() {
   return (
-    <div className='bg-red-300'>Home</div>
+    <div>
+      <Signup></Signup>
+    </div>
   )
 }
 
