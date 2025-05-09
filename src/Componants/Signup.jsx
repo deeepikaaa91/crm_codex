@@ -7,7 +7,7 @@ const Signup = () => {
         <h2 className="text-3xl font-semibold text-center text-blue-600 mb-6">Create an Account</h2>
         <form className="space-y-5">
           <div>
-            <label className="block text-gray-700">Full Name</label>
+            <label className="block text-gray-700">Full Name asdfghjkl;</label>
             <input
               type="text"
               name="name"
