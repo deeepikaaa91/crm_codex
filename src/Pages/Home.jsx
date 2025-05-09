@@ -1,8 +1,12 @@
 import React from 'react'
+import Login from '../Component/Login'
 
 function Home() {
   return (
-    <div className='bg-red-300'>Home</div>
+    <div>
+   <Login></Login>
+    </div>
+    
   )
 }
 
